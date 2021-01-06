@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "amphtml-validator": "^1.0.30",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
